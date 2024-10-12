@@ -233,6 +233,10 @@
     margin-top: 128px;
     margin-bottom: 30px;
 }
+.section{
+    padding-right: 20px;
+    padding-left: 20px;
+}
 @media (max-width:1300px){
     .grey_shape{
         display: none;
