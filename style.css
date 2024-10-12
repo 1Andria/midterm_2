@@ -22,7 +22,7 @@
 
 .section_1{
     display: flex;
-    gap: 125px;
+    
     align-items: center;
     margin-top: 83px;
     justify-content: space-between;
@@ -55,6 +55,7 @@
     font-weight: 700;
     line-height: 26px; 
     text-transform: uppercase;
+    transition: 0.5s;
 }
 .grey_shape{
     max-width: auto;
@@ -126,6 +127,7 @@
     font-weight: 700;
     line-height: 26px; 
     text-transform: uppercase;
+    transition: 0.5s;
 }
 
 .but_p{
